@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 <!--
-**nizar240p/nizar240p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**nizar240p/nizar240p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+**Web Programing**
+- HTML, CSS, JS, PHP;
+- Framework Laravel;
+- Watch Anime Everyday
 
 Here are some ideas to get you started:
 
