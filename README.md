@@ -39,11 +39,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" alt="Laravel" height="40">
 </a>
 
-<!-- ArchLinux -->
-<a href="https://archcraft.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/archcraft-os/archcraft-packages/main/archcraft-artworks/files/logo/png/logo-circle/logo-circle-1.png" alt="Archcraft" height="40">
-</a>
-
 <!-- Node -->
 <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" height="40">
