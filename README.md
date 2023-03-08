@@ -2,6 +2,8 @@
 
 <h3>An Otaku Programer from Konohagakure</h3>
 
+<img src="img/deepin-theme-3.jpg" alt="My Desktop">
+
 <h3>Languages and Tools:</h3>
 
 <!-- Bootstrap -->
